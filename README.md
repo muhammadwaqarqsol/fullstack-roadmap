@@ -9,54 +9,54 @@ Learn everything you need to build any SAAS product in a very organized, ordered
 
 ## HTML
 
-- [HTML & CSS (Begginer) (Paid) ](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) - You will learn the basics pf HTML and CSS, With an intro to reponsive design
-- [HTML & CSS (Intermediate) (Paid) ](https://www.udemy.com/course/advanced-css-and-sass/) - as a frontend developer you may work on a customized theme and interface for your company brand, you need to have the skills needed to implement reponsive and high quality interfaces.
 - [Semantic HTML (Free)](https://www.jungledisk.com/blog/2017/12/04/should-i-bother-with-semantic-html/) - Semantic HTML is really important for accessibility and SEO reasons.
 - [A friendly web development tutorial for complete beginners](https://www.internetingishard.com/)
 - [Standardista: CSS3, JS & HTML5 explained](http://www.standardista.com/) - a blog about web standards and performance
 
+
+## Git
+
+- [BASIC GIT WORKFLOW](https://www.codecademy.com/learn/learn-git/modules/learn-git-git-workflow-u)
+- [A Beginner’s Git and GitHub Tutorial](https://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html)
+- [git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.4/#specification) - A specification for adding human and machine readable meaning to commit messages
+- [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/)
+- [Version Control with Git (Free) (Udacity)](https://www.udacity.com/course/version-control-with-git--ud123)
+- [git - the simple guide](https://rogerdudler.github.io/git-guide/)
+
 ## CSS
 
 - [CSS Tricks (Free)](https://css-tricks.com/) - the best website for staying up-to-date with css.
-- [CSS Grids and Flexbox for Responsive Web Design (Paid)](https://frontendmasters.com/courses/css-grids-flexbox/) - in the old days there was no defined way of making grid systems, floats and table layouts were hacking ways to create layout. Now we have great layout solutions which is flexbox and css grid.
-- [BEM Naming Methodology ](http://getbem.com/naming/) - a convention for naming classes.
 - [Sass Crash Course (Free)](https://www.youtube.com/watch?v=nu5mdN2JIwM) - wrtiting your css with Sass pre-processor will make so much difference in your development work flow. I highly reccomend it
 - [Sass Guidlines: 7-1 Architecture](https://sass-guidelin.es/) - let's say you are building a design system or a huge project. you need an architecture to increase maintainability and your code quality overall.
 - [CSS State](https://2019.stateofcss.com/) - this is a helpful servey that shows the current state of CSS ecosystem
 - [Motion Design with CSS by Val Head | OpenVis Conference 2015](https://www.youtube.com/watch?v=bkLw5YIkRXw)
-- [Motion Design with CSS (Paid) (Intermediate)](https://frontendmasters.com/courses/motion-design-css/)
 - [CSS Specification](https://www.w3.org/Style/CSS/specs.en.html) - just for reference
 - [Even More CSS Secrets](https://www.youtube.com/watch?v=vs34f9FiHps) - CSS Secrets was a series of talks about some hidden features of css language
-- [ITCSS: Scalable and Maintainable CSS Architecture](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/) - it's another way of architecting your css. I use 7-1 architecture + Sass + BEM for writing matintanable and scalable css
   - [OOCSS: Object Orianted CSS](https://www.keycdn.com/blog/oocss)
 - [Web Fonts - The State of the Web](https://www.youtube.com/watch?v=L0xEOdybGFQ)
 - [Responsive Web Design - What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
 - [Responsive web design basics](https://web.dev/responsive-web-design-basics/)
+- [Tailwind CSS Full Course 2023](https://www.youtube.com/watch?v=tS7upsfuxmo)
 
 ## Design for developers
 
 Your role as front-end developer is not to design user interfaces but to build it. with that being said I recommend that you get familier with UI design princiiples because you are going to implement UI/UX Designer [wireframes](https://www.justinmind.com/blog/low-fidelity-vs-high-fidelity-wireframing-is-paper-dead/).
 
 - [The non-designer book by robin Williams](https://www.amazon.com/Non-Designers-Design-Book-4th/dp/0133966151)
-- [Design for Developers](https://frontendmasters.com/courses/design-for-developers/)
-- [Responsive Web Typography v2](https://frontendmasters.com/courses/responsive-typography-v2/) - typography is crucial for brands. it invoke certain feelings. this workshop is a great overview of typography.
 - [The Best Resources For Designers In One Place](https://www.bookmarks.design/)
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
 - [Motion design in UI - Designing in the Browser](https://www.youtube.com/watch?v=jWur1VrxNUg)
 - [Contrast and Meaning](https://alistapart.com/article/contrastandmeaning/)
 - [How To Design Better Buttons](https://www.smashingmagazine.com/2016/11/a-quick-guide-for-designing-better-buttons/)
 - [FONT REVIEW JOURNAL](https://fontreviewjournal.com/)
-- [Tim Brown — Universal Typography (SmashingConf NYC 2014)](https://vimeo.com/106504574)
-- [Method of Action](https://method.ac/) - Method of Action creates tools, toys and games to help you learn design, for free.
 - [Degreeless.design](https://www.degreeless.design/)
-- [Intro to the Design of Everyday Things](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101)
 
-## Accessibility (a11y)
+## Accessibility (a11y) - reading material
 
 - [Web Content Accessibility Guidelines (WCAG) 2.0
   ](https://www.w3.org/TR/WCAG20/)
 - [Webaim Checklist](https://webaim.org/standards/wcag/checklist#sc2.1.2) - this is a guide to implement accessibility features as a developer. a small note here: this is meant to be a summary for developers not as a leggal reference.
-- [Website Accessibility (Paid)](https://frontendmasters.com/courses/web-accessibility/) - a workshop about the subject.
 - [Accessibility Manifesto](http://accessibilitymanifesto.com/introduction)
 - [Alt-texts: The Ultimate Guide](https://axesslab.com/alt-texts/)
 - [Webaim Contrast Chcker](https://webaim.org/resources/contrastchecker/)
@@ -65,13 +65,9 @@ Your role as front-end developer is not to design user interfaces but to build i
 
 ## JavaScript
 
-- [The Complete JavaScript Course (Paid)](https://www.udemy.com/course/the-complete-javascript-course) - You need to learn JavaScript very well before going to a framework/library like React or Anguler.
   - Basic syntax, ES5, ES6, DOM, AJAX
 - [You Don't Know JS Yet (book series) - 2nd Edition (Intermediate) (Free) ](https://github.com/getify/You-Dont-Know-JS) - degging deeper into the language features such as prototypal inheritance, type system, engine, abstract syntax tree, closures, scope and so on.
   - [Deep JavaScript Foundations, v3 ](https://frontendmasters.com/courses/deep-javascript-v3/)
-- [JavaScript: The Hard Parts, v2 (Paid)](https://frontendmasters.com/courses/javascript-hard-parts-v2/) - solid understanding of callbacks and higher-order functions, closure, asynchronous JavaScript, and object-oriented JavaScript.
-- [JavaScript: From Fundamentals to Functional JS, v2
-  (Paid)](https://frontendmasters.com/courses/js-fundamentals-functional-v2/)- deep dive into JavaScript and functional programming techniques
 - [JavaScript State](https://2019.stateofjs.com/) - large survey about the javaScript ecosystem
 - [Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 - [Mastering the Module Pattern](https://ultimatecourses.com/blog/mastering-the-module-pattern#private-methods)
@@ -105,13 +101,12 @@ Your role as front-end developer is not to design user interfaces but to build i
 - [React Resources](https://reactresources.com/) - Articles, podcasts, conferences, books.
 - [Dan Abramov Blog](https://overreacted.io/) - Dan is one of the main developers of Reactjs core team. This blog is not only about react but UI engineering in general.
 - [React dev tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
-- [State Management in Pure React, v2 (Paid)](https://frontendmasters.com/courses/pure-react-state/)
 - [State Management with Redux & MobX
   ](https://frontendmasters.com/courses/redux-mobx/)
+ - [Build and Deploy a Better Spotify 2.0 Clone Music App with React 18 (Tailwind, Redux, RapidAPI)](https://www.youtube.com/watch?v=I1cpb0tYV74)
 
 ## Dev tools
 
-- [Chrome DevTools](https://bitsofco.de/how-and-when-to-use-the-tabindex-attribute/)
 - [Mastering Chrome Developer Tools v2](https://frontendmasters.com/courses/chrome-dev-tools-v2/)
 
 ## Package Managers
@@ -124,15 +119,6 @@ Your role as front-end developer is not to design user interfaces but to build i
 - [React Styled Components Tutorial](https://www.youtube.com/watch?v=syqw5UJrfoc)
 - [The Top 205 Styled Components Open Source Projects](https://awesomeopensource.com/projects/styled-components)
 
-## Git
-
-- [BASIC GIT WORKFLOW](https://www.codecademy.com/learn/learn-git/modules/learn-git-git-workflow-u)
-- [A Beginner’s Git and GitHub Tutorial](https://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html)
-- [git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
-- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.4/#specification) - A specification for adding human and machine readable meaning to commit messages
-- [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/)
-- [Version Control with Git (Free) (Udacity)](https://www.udacity.com/course/version-control-with-git--ud123)
-- [git - the simple guide](https://rogerdudler.github.io/git-guide/)
 
 ## Rendering on the web
 
@@ -153,12 +139,6 @@ Your role as front-end developer is not to design user interfaces but to build i
 - [Web.dev (Google)](https://web.dev/)
 - [Full stack open 2020 ](https://fullstackopen.com/en/) - Free course by the university of Helsini, The oldest and largest science university in Finland. the content of the course is very relative and modern.
 
-## Conferences
-
-- [Coding Tech
-  ](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
-- [JSConf](https://www.youtube.com/user/jsconfeu)
-
 ## Web 101
 
 - [How the web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works) - How the web works provides a simplified view of what happens when you view a webpage in a web browser on your computer or phone
@@ -170,17 +150,7 @@ Your role as front-end developer is not to design user interfaces but to build i
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/91EeModnt9L.jpg" width="40%" height="50%"/>
 
-## Shell Basics
 
-- [Shell Workshop - Udacity
-  ](https://www.udacity.com/course/shell-workshop--ud206)
-- [Introduction to Bash, VIM & Regex
-  ](https://frontendmasters.com/courses/bash-vim-regex/)
-
-## Podcasts
-
-- [Syntax: A Tasty Treats Podcast for Web Developers.](https://syntax.fm/)
-- [Base.cs](https://dev.to/basecspodcast) - Computer Science podcast
 
 # Backend Roadmap
 
@@ -188,15 +158,45 @@ In the backend we are going to use nodejs which is an enviroment for executing j
 
 ## Nodejs
 
-- [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11954326#overview)
-- [MERN Stack Front To Back: Full Stack React, Redux & Node.js](https://www.udemy.com/course/mern-stack-front-to-back/)
-- [Node.js, Express, MongoDB & More: The Complete Bootcamp 2020](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp)
+- [Node.js Tutorials for Beginners](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw)
+- [Building a RESTful API with Node.js](https://www.youtube.com/playlist?list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q)
+- [Learn The MERN Stack - Express & MongoDB Rest API](https://www.youtube.com/watch?v=-0exw-9YJBo)
 - [Events and Event Emitter in Node.js](https://www.youtube.com/watch?v=l20MBBFZAmA&feature=emb_title)
 - [Understanding module.exports and exports in Node.js](https://www.sitepoint.com/understanding-module-exports-exports-node-js/)
 - [Express/Node introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
 - [Semantic Versioning](https://semver.org/)
 - [2.5 cors, json, jsonp - undergrad webdev summer 1 2017
   ](https://www.youtube.com/watch?v=stvCHJZq5MI)
+
+
+  ## Creating Restful APIs
+
+- [What is REST](https://restfulapi.net/)
+- [Web API design - Azure docs](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+- [RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9#comment-4865610272)
+- [REST API By Roy T.Fielding](https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven)
+- Error Handling in REST APIs
+  - [Problem Details for HTTP APIs - RFC 7807](https://tools.ietf.org/html/rfc7807)
+  - [Standard Error Responses - Google](https://developers.google.com/search-ads/v2/standard-error-responses)
+  - [REST API Error Codes 101](https://blog.restcase.com/rest-api-error-codes-101/)
+- [jsonapi](http://jsonapi.org/) - A SPECIFICATION FOR BUILDING APIS IN JSON
+- [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
+
+## Next.js
+
+Focus on the **Page Router** (select no for **App Router** on the ```npx create-next-app@latest  ``` command.
+![image](https://github.com/HassanShanJava/fullstack-roadmap/assets/55858014/e3071ceb-66c7-48ca-bca4-be5f7f07ea3e)
+- [Next.js React Framework Course – Build and Deploy a Full Stack App From scratch](https://www.youtube.com/watch?v=KjY94sAKLlw)
+- [How to Build Scalable Architecture for your Next.js Project](https://www.youtube.com/watch?v=Iu5aZDqZt8E)
+  **T3 Stack**
+- [T3: TRPC, Prisma and NextAuth Done Right](https://www.youtube.com/watch?v=J1gzN1SAhyM)
+- [T3 Stack Tutorial - Let's Build a CRUD Application](https://www.youtube.com/watch?v=ozh4a8kow-w)
+
+For the **App router**, you need to experience how to make these projects.
+- [Next.js 14 Full Course 2023 | Build and Deploy a Full Stack App Using the Official React Framework](https://www.youtube.com/watch?v=wm5gMKuwSYk&list=PL6QREj8te1P7gixBDSU8JLvQndTEEX3c3&index=1)
+- [Build and Deploy a Modern Next.js 14 Application | React, Next JS 14, TypeScript, Tailwind CSS](https://www.youtube.com/watch?v=pUNSHPyVryU)
+- [Fullstack Trello Clone: Next.js 14, Server Actions, React, Prisma, Stripe, Tailwind, MySQL](https://www.youtube.com/watch?v=pRybm9lXW2c)
+- [Build a Complete SaaS Platform with Next.js 13, React, Prisma, tRPC, Tailwind | Full Course 2023](https://www.youtube.com/watch?v=ucX2zXAZ1I0)
 
 ## Operating Systems : Operating system concepts 9th edition by Abraham Silbarschatz
 
@@ -216,24 +216,10 @@ In the backend we are going to use nodejs which is an enviroment for executing j
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/71s-VDnaRGL.jpg" width="40%" height="50%"/>
 
-## ORM: Mongoose
+## ORM: Prisma ORM
 
-- [Mongoose docs](https://mongoosejs.com/docs/api.html)
-- [MongoDB Tutorial - Modeling with MongoDB](https://www.youtube.com/watch?v=4rhKKFbbYT4&feature=emb_title)
-- [MongoDB Crash Course](https://www.youtube.com/watch?v=-56x56UppqQ)
+- [Prisma docs](https://www.prisma.io/docs/getting-started)
 
-## Creating Restful APIs
-
-- [What is REST](https://restfulapi.net/)
-- [Web API design - Azure docs](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
-- [RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9#comment-4865610272)
-- [REST API By Roy T.Fielding](https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven)
-- Error Handling in REST APIs
-  - [Problem Details for HTTP APIs - RFC 7807](https://tools.ietf.org/html/rfc7807)
-  - [Standard Error Responses - Google](https://developers.google.com/search-ads/v2/standard-error-responses)
-  - [REST API Error Codes 101](https://blog.restcase.com/rest-api-error-codes-101/)
-- [jsonapi](http://jsonapi.org/) - A SPECIFICATION FOR BUILDING APIS IN JSON
-- [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
 
 ## Logging
 
@@ -284,15 +270,6 @@ In the backend we are going to use nodejs which is an enviroment for executing j
 
 <img src="https://i.ebayimg.com/images/g/85UAAOSwvXdeTKgD/s-l600.jpg" width="40%" height="50%">
 
-## Certifications
-
-### Udacity
-
-- [Front-End Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011)
-  - [Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Front+End+Web+Dev+-+nd0011+-+syllabus.pdf)
-- [React Nanodegree](https://www.udacity.com/course/react-nanodegree--nd019)
-  - [Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/reactnd-syllabus-3.0.pdf)
-
 ### Misk Academy
 
 Misk academy deliver practical and career focused courses led by top-quality faculty aimed at equipping young Saudis and professionals with the skills needed.
@@ -300,12 +277,3 @@ Misk academy deliver practical and career focused courses led by top-quality fac
 - They regulerly post new certifications to enroll in. Don't mess it, it's a great chance for you to learn with a local community.
 - [Misk Academy website](https://www.miskacademy.edu.sa/)
 
-### Saudi Digital Academy
-
-A saudi initiative aimed to equip young saudis with the skills needed in fields such as web/mobile development, Data Analytics, AI, and Game Devepment.
-
-- [Website](https://sda.edu.sa/)
-
-## Youtube Channels
-
-Soon 😊
