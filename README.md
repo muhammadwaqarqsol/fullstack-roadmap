@@ -253,6 +253,12 @@ For the **App router**, you need to experience how to make these projects.
 - [Authentication on the Web (Sessions, Cookies, JWT, localStorage, and more)
   ](https://www.youtube.com/watch?v=2PPSXonhIck&t=380s)
 
+
+  ## Unit Testing in React/Nextjs and T3 Stack (1 week)
+- [Next.js with React Testing Library, Jest, TypeScript](https://www.youtube.com/watch?v=AS79oJ3Fcf0)
+- [Playwright - Cucumber - TS](https://www.youtube.com/watch?v=bfWXNLqKlvA&list=PL699Xf-_ilW6KgK-S1l9ynOnBGiZl2Bsk)
+- [Some tips when using T3 Stack: Unit Testing with tRPC procedures - environment setup](https://tawaldevuniverse.hashnode.dev/some-tips-when-using-t3-stack-unit-testing-with-trpc-procedures-environment-setup)
+
 ## Software Engineering
 
 - [Agile Software Development - MIT Lecture](https://www.youtube.com/watch?v=UxMpn92vGXs&t=696s)
@@ -268,8 +274,5 @@ For the **App router**, you need to experience how to make these projects.
 <img src="https://i.ebayimg.com/images/g/85UAAOSwvXdeTKgD/s-l600.jpg" width="40%" height="50%">
 
 
-## Unit Testing in React/Nextjs and T3 Stack (1 week)
-- [Next.js with React Testing Library, Jest, TypeScript](https://www.youtube.com/watch?v=AS79oJ3Fcf0)
-- [Playwright - Cucumber - TS](https://www.youtube.com/watch?v=bfWXNLqKlvA&list=PL699Xf-_ilW6KgK-S1l9ynOnBGiZl2Bsk)
-- [Some tips when using T3 Stack: Unit Testing with tRPC procedures - environment setup](https://tawaldevuniverse.hashnode.dev/some-tips-when-using-t3-stack-unit-testing-with-trpc-procedures-environment-setup)
+
 
