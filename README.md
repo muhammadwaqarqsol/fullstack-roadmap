@@ -55,7 +55,6 @@ In web development means enabling as **many people as possible** to use websites
 - [Web Content Accessibility Guidelines (WCAG) 2.0
   ](https://www.w3.org/TR/WCAG20/)
 - [Webaim Checklist](https://webaim.org/standards/wcag/checklist#sc2.1.2) - this is a guide to implement accessibility features as a developer. a small note here: this is meant to be a summary for developers not as a leggal reference.
-- [Accessibility Manifesto](http://accessibilitymanifesto.com/introduction)
 - [Alt-texts: The Ultimate Guide](https://axesslab.com/alt-texts/)
 - [Webaim Contrast Chcker](https://webaim.org/resources/contrastchecker/)
 - [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix/?n=white&n=light&n=bright&n=medium&n=dark&n=black&v=D81B60&v=B3EFFF&v=00CFFF&v=046B99&v=1C304A&v=000000)
