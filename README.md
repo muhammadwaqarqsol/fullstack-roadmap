@@ -50,6 +50,8 @@ Your role as front-end developer is not to design user interfaces but to build i
 
 ## Accessibility (a11y) - reading material
 
+In web development means enabling as **many people as possible** to use websites, even when those people's abilities are limited in some way.
+
 - [Web Content Accessibility Guidelines (WCAG) 2.0
   ](https://www.w3.org/TR/WCAG20/)
 - [Webaim Checklist](https://webaim.org/standards/wcag/checklist#sc2.1.2) - this is a guide to implement accessibility features as a developer. a small note here: this is meant to be a summary for developers not as a leggal reference.
