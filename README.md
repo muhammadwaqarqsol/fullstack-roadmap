@@ -71,13 +71,6 @@ Your role as front-end developer is not to design user interfaces but to build i
   ](https://www.youtube.com/watch?v=e-5obm1G_FY)
   - [Compiler Compiler Series](https://www.youtube.com/watch?v=gPcHBzWXq1E&list=PLo3w8EB99pqJVPhmYbYdInBvAGarDavh) - A guided tour with SpiderMonkey engineer Yulia Startsev. Yulia shows what it’s like to work on the SpiderMonkey compiler as a JavaScript engineer, improving conformance with ECMA-262
 
-## Build Systems
-
-- [Gulpjs](https://gulpjs.com/) - automate slow, repetitive workflows and compose them into efficient build pipelines
-- [PostCSS](https://postcss.org/) - I like using gulpjs for automation and combine it with the large ecosystem of plugins in postCSS.
-- [The Difference Between Minification and Gzipping](https://css-tricks.com/the-difference-between-minification-and-gzipping/)
-- [Build Tools](https://developers.google.com/web/tools/setup/setup-buildtools) - a little bit out of date article but it's realy good and informative
-
 ## Design Systems (1 week)
 
 - [A comprehensive guide to design systems](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
@@ -91,15 +84,13 @@ Your role as front-end developer is not to design user interfaces but to build i
 ## React (1.5 week)
 
 - [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/) - the web development industry is moving more towered a component-orianted way of developing user interfaces. this article will shows you how to think of components.
-- [React Docs](https://reactjs.org/docs/getting-started.html) - the technical team of react did a great job with this documentation. the most efficient resource for learning React.
-- [The Modern React Bootcamp (Hooks, Context, NextJS, Router)](https://www.udemy.com/course/modern-react-bootcamp/learn) - the best course for learning react
-  - [Alternative](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+- [React Docs]([https://reactjs.org/docs/getting-started.html](https://react.dev/)) - the technical team of react did a great job with this documentation. the most efficient resource for learning React.
 - [React Resources](https://reactresources.com/) - Articles, podcasts, conferences, books.
 - [Dan Abramov Blog](https://overreacted.io/) - Dan is one of the main developers of Reactjs core team. This blog is not only about react but UI engineering in general.
 - [React dev tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
-- [State Management with Redux & MobX
-  ](https://frontendmasters.com/courses/redux-mobx/)
+  #TASK
  - [Build and Deploy a Better Spotify 2.0 Clone Music App with React 18 (Tailwind, Redux, RapidAPI)](https://www.youtube.com/watch?v=I1cpb0tYV74)
+ - [How To Create Complete Ecommerce Website Using React JS Step by Step Tutorial 2023](https://www.youtube.com/watch?v=jbfuzcrfjqQ)
 
 ## Dev tools
 
@@ -200,13 +191,10 @@ For the **App router**, you need to experience how to make these projects.
 
 ## UI Component Libaries
 - [Shadcn UI (Radxi UI + Tailwind CSS)](https://ui.shadcn.com/)
+- [PrimeReact - React UI Component Library](https://primereact.org/)
 - [Tailwind UI](https://edson-tailwind-ui.netlify.app/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Chakra UI](https://chakra-ui.com/)
-
-## Operating Systems : Operating system concepts 9th edition by Abraham Silbarschatz
-
-<img src="./os.jpg" width="40%" height="50%"/>
 
 ## NoSQL Databases (1 week)
 
