@@ -7,14 +7,14 @@ Learn everything you need to build any SAAS product in a very organized, ordered
 
 # Front-End Roadmap
 
-## HTML
+## HTML (3 days)
 
 - [Semantic HTML (Free)](https://www.jungledisk.com/blog/2017/12/04/should-i-bother-with-semantic-html/) - Semantic HTML is really important for accessibility and SEO reasons.
 - [A friendly web development tutorial for complete beginners](https://www.internetingishard.com/)
 - [Standardista: CSS3, JS & HTML5 explained](http://www.standardista.com/) - a blog about web standards and performance
 
 
-## Git
+## Git (3 days)
 
 - [BASIC GIT WORKFLOW](https://www.codecademy.com/learn/learn-git/modules/learn-git-git-workflow-u)
 - [A Beginner’s Git and GitHub Tutorial](https://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html)
@@ -24,7 +24,7 @@ Learn everything you need to build any SAAS product in a very organized, ordered
 - [Version Control with Git (Free) (Udacity)](https://www.udacity.com/course/version-control-with-git--ud123)
 - [git - the simple guide](https://rogerdudler.github.io/git-guide/)
 
-## CSS
+## CSS (1 week)
 
 - [CSS Tricks (Free)](https://css-tricks.com/) - the best website for staying up-to-date with css.
 - [Sass Crash Course (Free)](https://www.youtube.com/watch?v=nu5mdN2JIwM) - wrtiting your css with Sass pre-processor will make so much difference in your development work flow. I highly reccomend it
@@ -63,7 +63,7 @@ Your role as front-end developer is not to design user interfaces but to build i
 - [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix/?n=white&n=light&n=bright&n=medium&n=dark&n=black&v=D81B60&v=B3EFFF&v=00CFFF&v=046B99&v=1C304A&v=000000)
 - [Removing Headaches from Focus Management](https://developers.google.com/web/updates/2016/03/focus-start-point?hl=en) -[How and when to use the tabindex attribute](https://bitsofco.de/how-and-when-to-use-the-tabindex-attribute/)
 
-## JavaScript
+## JavaScript (1 week)
 
   - Basic syntax, ES5, ES6, DOM, AJAX
 - [You Don't Know JS Yet (book series) - 2nd Edition (Intermediate) (Free) ](https://github.com/getify/You-Dont-Know-JS) - degging deeper into the language features such as prototypal inheritance, type system, engine, abstract syntax tree, closures, scope and so on.
@@ -82,7 +82,7 @@ Your role as front-end developer is not to design user interfaces but to build i
 - [The Difference Between Minification and Gzipping](https://css-tricks.com/the-difference-between-minification-and-gzipping/)
 - [Build Tools](https://developers.google.com/web/tools/setup/setup-buildtools) - a little bit out of date article but it's realy good and informative
 
-## Design Systems
+## Design Systems (1 week)
 
 - [A comprehensive guide to design systems](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
 - [Design Systems with Brad Frost - The State of the Web
@@ -92,7 +92,7 @@ Your role as front-end developer is not to design user interfaces but to build i
   ](https://developer.apple.com/design/human-interface-guidelines/)
 - [Veritas Design System](https://veritas.udacity.design/)
 
-## React
+## React (1.5 week)
 
 - [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/) - the web development industry is moving more towered a component-orianted way of developing user interfaces. this article will shows you how to think of components.
 - [React Docs](https://reactjs.org/docs/getting-started.html) - the technical team of react did a great job with this documentation. the most efficient resource for learning React.
@@ -156,7 +156,7 @@ Your role as front-end developer is not to design user interfaces but to build i
 
 In the backend we are going to use nodejs which is an enviroment for executing javaascript code on your machine.
 
-## Nodejs
+## Nodejs (1 week)
 
 - [Node.js Tutorials for Beginners](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw)
 - [Building a RESTful API with Node.js](https://www.youtube.com/playlist?list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q)
@@ -169,7 +169,7 @@ In the backend we are going to use nodejs which is an enviroment for executing j
   ](https://www.youtube.com/watch?v=stvCHJZq5MI)
 
 
-  ## Creating Restful APIs
+  ## Creating Restful APIs (1 week)
 
 - [What is REST](https://restfulapi.net/)
 - [Web API design - Azure docs](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
@@ -182,7 +182,7 @@ In the backend we are going to use nodejs which is an enviroment for executing j
 - [jsonapi](http://jsonapi.org/) - A SPECIFICATION FOR BUILDING APIS IN JSON
 - [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
 
-## Next.js
+## Next.js with TypeScript (2 week)
 
 Focus on the **Page Router** (select no for **App Router** on the ```npx create-next-app@latest  ``` command.
 ![image](https://github.com/HassanShanJava/fullstack-roadmap/assets/55858014/e3071ceb-66c7-48ca-bca4-be5f7f07ea3e)
@@ -202,11 +202,11 @@ For the **App router**, you need to experience how to make these projects.
 
 <img src="./os.jpg" width="40%" height="50%"/>
 
-## Relational Databases
+## Relational Databases (1 week)
 
 - [PostgreSQL Tutorials](https://www.postgresqltutorial.com/) - A website for learning SQL and postgreSQL
 
-## NoSQL Databases
+## NoSQL Databases (1 week)
 
 - [SQL vs NoSQL or MySQL vs MongoDB](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
 - [MongoDB Complete Introduction & Summary](https://www.youtube.com/watch?v=VELru-FCWDM)
@@ -276,4 +276,9 @@ Misk academy deliver practical and career focused courses led by top-quality fac
 
 - They regulerly post new certifications to enroll in. Don't mess it, it's a great chance for you to learn with a local community.
 - [Misk Academy website](https://www.miskacademy.edu.sa/)
+
+## Unit Testing in React/Nextjs and T3 Stack (1 week)
+- [Next.js with React Testing Library, Jest, TypeScript](https://www.youtube.com/watch?v=AS79oJ3Fcf0)
+- [Playwright - Cucumber - TS](https://www.youtube.com/watch?v=bfWXNLqKlvA&list=PL699Xf-_ilW6KgK-S1l9ynOnBGiZl2Bsk)
+- [Some tips when using T3 Stack: Unit Testing with tRPC procedures - environment setup](https://tawaldevuniverse.hashnode.dev/some-tips-when-using-t3-stack-unit-testing-with-trpc-procedures-environment-setup)
 
