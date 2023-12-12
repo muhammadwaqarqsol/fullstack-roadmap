@@ -197,6 +197,13 @@ For the **App router**, you need to experience how to make these projects.
 - [Fullstack Trello Clone: Next.js 14, Server Actions, React, Prisma, Stripe, Tailwind, MySQL](https://www.youtube.com/watch?v=pRybm9lXW2c)
 - [Build a Complete SaaS Platform with Next.js 13, React, Prisma, tRPC, Tailwind | Full Course 2023](https://www.youtube.com/watch?v=ucX2zXAZ1I0)
 
+
+## UI Component Libaries
+- [**Shadcn UI **(Radxi UI + Tailwind CC)](https://ui.shadcn.com/)
+- [Tailwind UI](https://edson-tailwind-ui.netlify.app/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Chakra UI](https://chakra-ui.com/)
+
 ## Operating Systems : Operating system concepts 9th edition by Abraham Silbarschatz
 
 <img src="./os.jpg" width="40%" height="50%"/>
