@@ -7,14 +7,15 @@ Learn everything you need to build any SAAS product in a very organized, ordered
 
 # Front-End Roadmap
 
-## HTML (3 days)
+
+## HTML (1/3 week) 
 
 - [Semantic HTML (Free)](https://www.jungledisk.com/blog/2017/12/04/should-i-bother-with-semantic-html/) - Semantic HTML is really important for accessibility and SEO reasons.
 - [A friendly web development tutorial for complete beginners](https://www.internetingishard.com/)
 - [Standardista: CSS3, JS & HTML5 explained](http://www.standardista.com/) - a blog about web standards and performance
 
 
-## Git (3 days)
+## Git (1/3 week)
 
 - [BASIC GIT WORKFLOW](https://www.codecademy.com/learn/learn-git/modules/learn-git-git-workflow-u)
 - [A Beginner’s Git and GitHub Tutorial](https://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html)
@@ -24,17 +25,12 @@ Learn everything you need to build any SAAS product in a very organized, ordered
 - [Version Control with Git (Free) (Udacity)](https://www.udacity.com/course/version-control-with-git--ud123)
 - [git - the simple guide](https://rogerdudler.github.io/git-guide/)
 
-## CSS (1 week)
+## CSS (1/3 week)
 
 - [CSS Tricks (Free)](https://css-tricks.com/) - the best website for staying up-to-date with css.
-- [Sass Crash Course (Free)](https://www.youtube.com/watch?v=nu5mdN2JIwM) - wrtiting your css with Sass pre-processor will make so much difference in your development work flow. I highly reccomend it
-- [Sass Guidlines: 7-1 Architecture](https://sass-guidelin.es/) - let's say you are building a design system or a huge project. you need an architecture to increase maintainability and your code quality overall.
 - [CSS State](https://2019.stateofcss.com/) - this is a helpful servey that shows the current state of CSS ecosystem
-- [Motion Design with CSS by Val Head | OpenVis Conference 2015](https://www.youtube.com/watch?v=bkLw5YIkRXw)
-- [CSS Specification](https://www.w3.org/Style/CSS/specs.en.html) - just for reference
 - [Even More CSS Secrets](https://www.youtube.com/watch?v=vs34f9FiHps) - CSS Secrets was a series of talks about some hidden features of css language
   - [OOCSS: Object Orianted CSS](https://www.keycdn.com/blog/oocss)
-- [Web Fonts - The State of the Web](https://www.youtube.com/watch?v=L0xEOdybGFQ)
 - [Responsive Web Design - What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
 - [Responsive web design basics](https://web.dev/responsive-web-design-basics/)
 - [Tailwind CSS Full Course 2023](https://www.youtube.com/watch?v=tS7upsfuxmo)
@@ -138,6 +134,9 @@ Your role as front-end developer is not to design user interfaces but to build i
 - [Frontend master books (Free)](https://frontendmasters.com/books/) - every year frontend masters publish a book that covers all topics in frontend development. I highly recommend reading the frontend handbook 2019
 - [Web.dev (Google)](https://web.dev/)
 - [Full stack open 2020 ](https://fullstackopen.com/en/) - Free course by the university of Helsini, The oldest and largest science university in Finland. the content of the course is very relative and modern.
+- [Sass Crash Course (Free)](https://www.youtube.com/watch?v=nu5mdN2JIwM) - wrtiting your css with Sass pre-processor will make so much difference in your development work flow. I highly reccomend it
+- [Web Fonts - The State of the Web](https://www.youtube.com/watch?v=L0xEOdybGFQ)
+- [Building a design system in Next.js with Tailwind](https://www.youtube.com/watch?v=T-Zv73yZ_QI)
 
 ## Web 101
 
@@ -202,10 +201,6 @@ For the **App router**, you need to experience how to make these projects.
 
 <img src="./os.jpg" width="40%" height="50%"/>
 
-## Relational Databases (1 week)
-
-- [PostgreSQL Tutorials](https://www.postgresqltutorial.com/) - A website for learning SQL and postgreSQL
-
 ## NoSQL Databases (1 week)
 
 - [SQL vs NoSQL or MySQL vs MongoDB](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
@@ -219,7 +214,9 @@ For the **App router**, you need to experience how to make these projects.
 ## ORM: Prisma ORM
 
 - [Prisma docs](https://www.prisma.io/docs/getting-started)
-
+- [How to use Prisma in a Next.js app](https://daily.dev/blog/nextjs-with-prisma)
+- [Prisma —A Great ORM for Typescript](https://medium.com/short-bits/prisma-an-great-orm-for-typescript-2853e6e48fcd)
+- [Prisma schema](https://www.prisma.io/docs/orm/prisma-schema)
 
 ## Logging
 
@@ -270,12 +267,6 @@ For the **App router**, you need to experience how to make these projects.
 
 <img src="https://i.ebayimg.com/images/g/85UAAOSwvXdeTKgD/s-l600.jpg" width="40%" height="50%">
 
-### Misk Academy
-
-Misk academy deliver practical and career focused courses led by top-quality faculty aimed at equipping young Saudis and professionals with the skills needed.
-
-- They regulerly post new certifications to enroll in. Don't mess it, it's a great chance for you to learn with a local community.
-- [Misk Academy website](https://www.miskacademy.edu.sa/)
 
 ## Unit Testing in React/Nextjs and T3 Stack (1 week)
 - [Next.js with React Testing Library, Jest, TypeScript](https://www.youtube.com/watch?v=AS79oJ3Fcf0)
