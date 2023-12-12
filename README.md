@@ -199,7 +199,7 @@ For the **App router**, you need to experience how to make these projects.
 
 
 ## UI Component Libaries
-- [**Shadcn UI **(Radxi UI + Tailwind CC)](https://ui.shadcn.com/)
+- [Shadcn UI (Radxi UI + Tailwind CSS)](https://ui.shadcn.com/)
 - [Tailwind UI](https://edson-tailwind-ui.netlify.app/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Chakra UI](https://chakra-ui.com/)
