@@ -129,6 +129,7 @@ In web development means enabling as **many people as possible** to use websites
 - [Sass Crash Course (Free)](https://www.youtube.com/watch?v=nu5mdN2JIwM) - wrtiting your css with Sass pre-processor will make so much difference in your development work flow. I highly reccomend it
 - [Web Fonts - The State of the Web](https://www.youtube.com/watch?v=L0xEOdybGFQ)
 - [Building a design system in Next.js with Tailwind](https://www.youtube.com/watch?v=T-Zv73yZ_QI)
+- [The Perils of Hydration](https://www.joshwcomeau.com/react/the-perils-of-rehydration/)
 
 ## Web 101
 
