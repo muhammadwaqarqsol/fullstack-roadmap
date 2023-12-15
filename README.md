@@ -63,6 +63,7 @@ In web development means enabling as **many people as possible** to use websites
 ## JavaScript (1 week)
 
   - Basic syntax, ES5, ES6, DOM, AJAX
+  - [JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials](https://javascript30.com/) **(1 day)**
 - [You Don't Know JS Yet (book series) - 2nd Edition (Intermediate) (Free) ](https://github.com/getify/You-Dont-Know-JS) - degging deeper into the language features such as prototypal inheritance, type system, engine, abstract syntax tree, closures, scope and so on.
   - [Deep JavaScript Foundations, v3 ](https://frontendmasters.com/courses/deep-javascript-v3/)
 - [JavaScript State](https://2019.stateofjs.com/) - large survey about the javaScript ecosystem
@@ -91,6 +92,7 @@ In web development means enabling as **many people as possible** to use websites
 - [React dev tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
   #TASK
  - [Build and Deploy a Better Spotify 2.0 Clone Music App with React 18 (Tailwind, Redux, RapidAPI)](https://www.youtube.com/watch?v=I1cpb0tYV74)
+ - [Learn Redux Toolkit in under 1 hour](https://www.youtube.com/watch?v=pX0SBJF01EU)
  - [How To Create Complete Ecommerce Website Using React JS Step by Step Tutorial 2023](https://www.youtube.com/watch?v=jbfuzcrfjqQ)
 
 ## Dev tools
