@@ -183,14 +183,14 @@ Focus on the **Page Router** (select no for **App Router** on the ```npx create-
 - [Next.js React Framework Course – Build and Deploy a Full Stack App From scratch](https://www.youtube.com/watch?v=KjY94sAKLlw)
 - [How to Build Scalable Architecture for your Next.js Project](https://www.youtube.com/watch?v=Iu5aZDqZt8E)
   **T3 Stack**
-- [T3: TRPC, Prisma and NextAuth Done Right](https://www.youtube.com/watch?v=J1gzN1SAhyM)
+- [X] [T3: TRPC, Prisma and NextAuth Done Right](https://www.youtube.com/watch?v=J1gzN1SAhyM)
 - [T3 Stack Tutorial - Let's Build a CRUD Application](https://www.youtube.com/watch?v=ozh4a8kow-w)
 
 For the **App router**, you need to experience how to make these projects.
-- [Next.js 14 Full Course 2023 | Build and Deploy a Full Stack App Using the Official React Framework](https://www.youtube.com/watch?v=wm5gMKuwSYk&list=PL6QREj8te1P7gixBDSU8JLvQndTEEX3c3&index=1)
-- [Build and Deploy a Modern Next.js 14 Application | React, Next JS 14, TypeScript, Tailwind CSS](https://www.youtube.com/watch?v=pUNSHPyVryU)
-- [Fullstack Trello Clone: Next.js 14, Server Actions, React, Prisma, Stripe, Tailwind, MySQL](https://www.youtube.com/watch?v=pRybm9lXW2c)
-- [Build a Complete SaaS Platform with Next.js 13, React, Prisma, tRPC, Tailwind | Full Course 2023](https://www.youtube.com/watch?v=ucX2zXAZ1I0)
+- [] [Next.js 14 Full Course 2023 | Build and Deploy a Full Stack App Using the Official React Framework](https://www.youtube.com/watch?v=wm5gMKuwSYk&list=PL6QREj8te1P7gixBDSU8JLvQndTEEX3c3&index=1)
+- [] [Build and Deploy a Modern Next.js 14 Application | React, Next JS 14, TypeScript, Tailwind CSS](https://www.youtube.com/watch?v=pUNSHPyVryU)
+- [X] [Fullstack Trello Clone: Next.js 14, Server Actions, React, Prisma, Stripe, Tailwind, MySQL](https://www.youtube.com/watch?v=pRybm9lXW2c)
+- [] [Build a Complete SaaS Platform with Next.js 13, React, Prisma, tRPC, Tailwind | Full Course 2023](https://www.youtube.com/watch?v=ucX2zXAZ1I0)
 
 
 ## UI Component Libaries
