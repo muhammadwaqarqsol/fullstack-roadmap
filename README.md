@@ -40,8 +40,8 @@ Learn everything you need to build any SAAS product in a very organized, ordered
 Your role as front-end developer is not to design user interfaces but to build it. with that being said I recommend that you get familier with UI design princiiples because you are going to implement UI/UX Designer [wireframes](https://www.justinmind.com/blog/low-fidelity-vs-high-fidelity-wireframing-is-paper-dead/).
 
 - [The non-designer book by robin Williams](https://www.amazon.com/Non-Designers-Design-Book-4th/dp/0133966151)
-- [The Best Resources For Designers In One Place](https://www.bookmarks.design/)
-- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+- [X] [The Best Resources For Designers In One Place](https://www.bookmarks.design/)
+- [X] [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
 - [Motion design in UI - Designing in the Browser](https://www.youtube.com/watch?v=jWur1VrxNUg)
 - [X] [Contrast and Meaning](https://alistapart.com/article/contrastandmeaning/)
 - [X] [How To Design Better Buttons](https://www.smashingmagazine.com/2016/11/a-quick-guide-for-designing-better-buttons/)
