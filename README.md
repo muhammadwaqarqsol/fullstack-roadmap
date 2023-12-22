@@ -44,7 +44,7 @@ Your role as front-end developer is not to design user interfaces but to build i
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
 - [Motion design in UI - Designing in the Browser](https://www.youtube.com/watch?v=jWur1VrxNUg)
 - [Contrast and Meaning](https://alistapart.com/article/contrastandmeaning/)
-- [How To Design Better Buttons](https://www.smashingmagazine.com/2016/11/a-quick-guide-for-designing-better-buttons/)
+- [X] [How To Design Better Buttons](https://www.smashingmagazine.com/2016/11/a-quick-guide-for-designing-better-buttons/)
 - [FONT REVIEW JOURNAL](https://fontreviewjournal.com/)
 - [Degreeless.design](https://www.degreeless.design/)
 
