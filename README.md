@@ -194,11 +194,11 @@ For the **App router**, you need to experience how to make these projects.
 
 
 ## UI Component Libaries
-- [Shadcn UI (Radxi UI + Tailwind CSS)](https://ui.shadcn.com/)
+- [X] [Shadcn UI (Radxi UI + Tailwind CSS)](https://ui.shadcn.com/)
 - [PrimeReact - React UI Component Library](https://primereact.org/)
-- [Tailwind UI](https://edson-tailwind-ui.netlify.app/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Chakra UI](https://chakra-ui.com/)
+- [X] [Tailwind UI](https://edson-tailwind-ui.netlify.app/)
+- [X] [Tailwind CSS](https://tailwindcss.com/)
+- [X] [Chakra UI](https://chakra-ui.com/)
 
 ## NoSQL Databases (1 week)
 
