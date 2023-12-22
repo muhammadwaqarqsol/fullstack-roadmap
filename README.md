@@ -181,7 +181,7 @@ In the backend we are going to use nodejs which is an enviroment for executing j
 Focus on the **Page Router** (select no for **App Router** on the ```npx create-next-app@latest  ``` command.
 ![image](https://github.com/HassanShanJava/fullstack-roadmap/assets/55858014/e3071ceb-66c7-48ca-bca4-be5f7f07ea3e)
 - [Next.js React Framework Course – Build and Deploy a Full Stack App From scratch](https://www.youtube.com/watch?v=KjY94sAKLlw)
-- [How to Build Scalable Architecture for your Next.js Project](https://www.youtube.com/watch?v=Iu5aZDqZt8E)
+- [X] [How to Build Scalable Architecture for your Next.js Project](https://www.youtube.com/watch?v=Iu5aZDqZt8E)
   **T3 Stack**
 - [X] [T3: TRPC, Prisma and NextAuth Done Right](https://www.youtube.com/watch?v=J1gzN1SAhyM)
 - [T3 Stack Tutorial - Let's Build a CRUD Application](https://www.youtube.com/watch?v=ozh4a8kow-w)
