@@ -129,18 +129,18 @@ In web development means enabling as **many people as possible** to use websites
 - [Web.dev (Google)](https://web.dev/)
 - [Full stack open 2020 ](https://fullstackopen.com/en/) - Free course by the university of Helsini, The oldest and largest science university in Finland. the content of the course is very relative and modern.
 - [Sass Crash Course (Free)](https://www.youtube.com/watch?v=nu5mdN2JIwM) - wrtiting your css with Sass pre-processor will make so much difference in your development work flow. I highly reccomend it
-- [Web Fonts - The State of the Web](https://www.youtube.com/watch?v=L0xEOdybGFQ)
-- [Building a design system in Next.js with Tailwind](https://www.youtube.com/watch?v=T-Zv73yZ_QI)
-- [The Perils of Hydration](https://www.joshwcomeau.com/react/the-perils-of-rehydration/)
+- [X] [Web Fonts - The State of the Web](https://www.youtube.com/watch?v=L0xEOdybGFQ)
+- [X] [Building a design system in Next.js with Tailwind](https://www.youtube.com/watch?v=T-Zv73yZ_QI)
+- [X] [The Perils of Hydration](https://www.joshwcomeau.com/react/the-perils-of-rehydration/)
 
 ## Web 101
 
-- [How the web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works) - How the web works provides a simplified view of what happens when you view a webpage in a web browser on your computer or phone
-- [HTTP Status Codes in 60 Seconds](https://webdesign.tutsplus.com/tutorials/http-status-codes-in-60-seconds--cms-24317)
-- [An Introduction to DNS Terminology, Components, and Concepts](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts)
-- [HTTP Fundamentals](https://www.pluralsight.com/courses/xhttp-fund)
-- [Building Blocks of TCP](https://hpbn.co/building-blocks-of-tcp/#three-way-handshake)
-- [HTTP Status Codes](https://httpstatuses.com/)
+- [X] [How the web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works) - How the web works provides a simplified view of what happens when you view a webpage in a web browser on your computer or phone
+- [X] [HTTP Status Codes in 60 Seconds](https://webdesign.tutsplus.com/tutorials/http-status-codes-in-60-seconds--cms-24317)
+- [X] [An Introduction to DNS Terminology, Components, and Concepts](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts)
+- [X] [HTTP Fundamentals](https://www.pluralsight.com/courses/xhttp-fund)
+- [X] [Building Blocks of TCP](https://hpbn.co/building-blocks-of-tcp/#three-way-handshake)
+- [X] [HTTP Status Codes](https://httpstatuses.com/)
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/91EeModnt9L.jpg" width="40%" height="50%"/>
 
