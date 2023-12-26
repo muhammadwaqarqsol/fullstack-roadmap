@@ -124,9 +124,9 @@ In web development means enabling as **many people as possible** to use websites
 
 ## General Resources
 
-- [Web Fundemntal (Google)](https://developers.google.com/web) - A resource for learning the best standards and conventions in the modern web development
+- [X] [Web Fundemntal (Google)](https://developers.google.com/web) - A resource for learning the best standards and conventions in the modern web development
 - [Frontend master books (Free)](https://frontendmasters.com/books/) - every year frontend masters publish a book that covers all topics in frontend development. I highly recommend reading the frontend handbook 2019
-- [Web.dev (Google)](https://web.dev/)
+- [X] [Web.dev (Google)](https://web.dev/)
 - [Full stack open 2020 ](https://fullstackopen.com/en/) - Free course by the university of Helsini, The oldest and largest science university in Finland. the content of the course is very relative and modern.
 - [Sass Crash Course (Free)](https://www.youtube.com/watch?v=nu5mdN2JIwM) - wrtiting your css with Sass pre-processor will make so much difference in your development work flow. I highly reccomend it
 - [X] [Web Fonts - The State of the Web](https://www.youtube.com/watch?v=L0xEOdybGFQ)
